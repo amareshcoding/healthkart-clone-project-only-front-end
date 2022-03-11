@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>product page</title>
+    <link rel="stylesheet" href="./style/index.css" />
+    <link rel="stylesheet" href="./style/product.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div id="navbar">
+      <div class="container">
+        <div class="logo">
+          <a href="index.html"
+            ><img
+              src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Healthkart.png"
+              alt=""
+              width="250"
+              height="80"
+          /></a>
+        </div>
+        <div class="search-div">
+          <img
+            id="searchpng"
+            src="https://static1.hkrtcdn.com/hknext/static/media/common/header/search-icon-grey-2.svg"
+            alt=""
+          />
+          <input
+            type="text"
+            placeholder="Search for products, brands or Health Goals"
+          />
+        </div>
+
+        <div class="nav-items">
+          <div class="item-1">
+            <p>Loyalty Rewards</p>
+          </div>
+          <p class="border1"></p>
+          <ul>
+            <li>
+              <div class="item-2"><p>Customer Support</p></div>
+              <ul style="width: 300px; height: 300px" ;>
+                <li style="font-size: 14px; font-weight: bold">
+                  <a id="blacklink" href="">Contact Us</a>
+                </li>
+                <li style="font-size: 14px; font-weight: bold">
+                  <a id="blacklink" href="">Helpful Links</a>
+                </li>
+                <li style="font-size: 14px">
+                  <a id="blacklink" href="">Chat With US</a>
+                </li>
+                <li style="font-size: 14px">
+                  <a id="blacklink" href="">Track Your Order</a>
+                </li>
+                <li style="font-size: 14px">
+                  <a id="blacklink" href="">Email Us</a>
+                </li>
+                <li style="font-size: 14px">
+                  <a id="blacklink" href="">Return Policy</a>
+                </li>
+                <li style="font-size: 14px">
+                  <a id="blacklink" href="">Ask Our Experts</a>
+                </li>
+                <li style="font-size: 14px">
+                  <a id="blacklink" href="">FAQ</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+
+          <div class="arrow">
+            <img
+              src="https://static1.hkrtcdn.com/hknext/static/media/common/header/arrow-down.svg"
+            />
+          </div>
+          <p class="border2"></p>
+          <div class="acc">
+            <img
+              src="https://static1.hkrtcdn.com/hknext/static/media/common/header/acc-icon.svg"
+            />
+          </div>
+          <ul>
+            <li>
+              <div class="item-3" id="go_to_login_page">
+                <p>My Accounts and Orders</p>
+              </div>
+              <ul style="width: 300px; height: 300px" ;>
+                <li style="width: 300px; height: 50px">
+                  <button class="loginbutton" onclick="myLoginFunction()">
+                    Login
+                  </button>
+                </li>
+                <br />
+                <li style="width: 300px; height: 50px; margin-top: 10px">
+                  <button class="newuserbutton" onclick="myLoginFunction()">
+                    New User? / Sign Up
+                  </button>
+                </li>
+                <br />
+                <li>
+                  <p style="color: #00c2c1">My Account</p>
+                </li>
+                <li>
+                  <p style="color: #00c2c1">Health Profile</p>
+                </li>
+                <li>
+                  <p>Orders</p>
+                </li>
+                <li>
+                  <p>Diet Plan</p>
+                </li>
+                <li>
+                  <p>Wishlist</p>
+                </li>
+                <li>
+                  <p>My Consultations</p>
+                </li>
+                <li>
+                  <p>Royalty Reward</p>
+                </li>
+                <li>
+                  <p>Recommended Product</p>
+                </li>
+                <br />
+                <br />
+              </ul>
+            </li>
+          </ul>
+
+          <p class="border3"></p>
+        </div>
+        <div class="cart">
+          <a href="cart.html">
+            <img
+              id="gotocart"
+              src="https://static1.hkrtcdn.com/hknext/static/media/common/header/cart.svg"
+              alt="cart"
+              height="25px"
+            />
+            <p id="cart_quantity">0</p>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="nav" class="navbar2">
+      <ul>
+        <li>
+          <div class="nav-items-1"><p>Category</p></div>
+        </li>
+        <li>
+          <div class="nav-items-2"><p>Brand</p></div>
+        </li>
+        <li>
+          <div class="nav-items-3"><p>Gender</p></div>
+        </li>
+        <li>
+          <div class="nav-items-4"><p>Goal</p></div>
+        </li>
+        <li>
+          <div class="nav-items-5"><p>Bestsellers</p></div>
+        </li>
+        <li>
+          <div class="nav-items-6"><p>Deals</p></div>
+        </li>
+        <li>
+          <div class="nav-items-7">
+            <p><a href="giftcard.html">Gift Card</a></p>
+          </div>
+        </li>
+      </ul>
+
+      <div class="rightPart">
+        <div class="consult">
+          <img
+            class="video"
+            src="	https://static1.hkrtcdn.com/hknext/static/media/common/header/hk-consult.svg"
+            height="13px"
+          />
+          <p>HK Consult</p>
+        </div>
+        <div class="findStore">
+          <img
+            class="icon"
+            src="https://static1.hkrtcdn.com/hknext/static/media/common/header/location-pin.svg"
+          />
+          <p><a href="stores.html">Find a Store</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div id="product_page_top_section">
+      <div id="product_page_sorting_div">
+        <h4>Sort By Price</h4>
+        <br />
+        <div class="product_sort">
+          <h5>Low-To-High-Price</h5>
+          <input
+            type="checkbox"
+            name="low_to_high_price"
+            id="low_to_high_price"
+          />
+        </div>
+        <br />
+        <div class="product_sort">
+          <h5>High-To-Low-Price</h5>
+          <input
+            type="checkbox"
+            name="high_to_low_price"
+            id="high_to_low_price"
+          />
+        </div>
+        <br />
+        <h4>Sort By Rating</h4>
+        <br />
+        <div class="product_sort">
+          <h5>Low-To-High-Rating</h5>
+          <input type="checkbox" name="" id="" />
+        </div>
+        <br />
+        <div class="product_sort">
+          <h5>High-To-Low-Rating</h5>
+          <input type="checkbox" name="" id="" />
+        </div>
+      </div>
+      <div id="product_page_flashimg_div">
+        <img
+          id="flash_img"
+          src="https://static1.hkrtcdn.com/hknext/static/media/common/flash/flash-sale.webp"
+          alt="Healthkart"
+        />
+      </div>
+    </div>
+
+    <div id="product"></div>
+
+    <div id="footer_div"></div>
+    <script type="module">
+      import { footer, navbarfirst } from "./components/components.js";
+      document.getElementById("footer_div").innerHTML = footer();
+      // document.getElementById("nav_bar_div").innerHTML = navbarfirst();
+    </script>
+  </body>
+</html>
+
+<script async src="./scripts/productpage.js"></script>
