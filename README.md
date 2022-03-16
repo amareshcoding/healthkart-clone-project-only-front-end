@@ -59,11 +59,11 @@ In our website, we tried our best to clone same as original website.</p>
 </ul>
 <h2 >Our blog link :</h2>
 <p >
-     <a href="https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1" rel="nofollow">https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1</a>
+     <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1" rel="nofollow">https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1</a>
 </p>
 
 <h2 >Deploy Link :</h2>
-<p ><a href="https://healthkart-clone-project-only-front-end.netlify.app/" rel="nofollow">https://healthkart-clone-project-only-front-end.netlify.app/</a></p>
+<p ><a rel="noreferrer" target="_blank" href="https://healthkart-clone-project-only-front-end.netlify.app/" rel="nofollow">https://healthkart-clone-project-only-front-end.netlify.app/</a></p>
 </article>
 </div>
 </div>
