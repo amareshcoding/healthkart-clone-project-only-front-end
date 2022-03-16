@@ -58,10 +58,12 @@ In our website, we tried our best to clone same as original website.</p>
      </li>
 </ul>
 <h2 >Our blog link :</h2>
-<p ><a href="https://medium.com/@vantureprakash1903/first-construct-week-project-at-masai-team-natures-basket-7410ab0c2d4e" rel="nofollow">https://medium.com/@vantureprakash1903/first-construct-week-project-at-masai-team-natures-basket-7410ab0c2d4e</a></p>
+<p >
+     <a href="https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1" rel="nofollow">https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1</a>
+</p>
 
 <h2 >Deploy Link :</h2>
-<p ><a href="https://naturesbasketclone.netlify.app/" rel="nofollow">https://naturesbasketclone.netlify.app/</a></p>
+<p ><a href="https://healthkart-clone-project-only-front-end.netlify.app/" rel="nofollow">https://healthkart-clone-project-only-front-end.netlify.app/</a></p>
 </article>
 </div>
 </div>
