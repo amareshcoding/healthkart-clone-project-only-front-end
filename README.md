@@ -53,9 +53,6 @@ In our website, we tried our best to clone same as original website.</p>
      <li>
           <p>Ramesh Gudivada :</p>
      </li>
-     <li>
-          <p>Kiran :</p>
-     </li>
 </ul>
 <h2 >Our blog link :</h2>
 <p >
