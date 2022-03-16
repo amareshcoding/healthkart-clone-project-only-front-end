@@ -2,54 +2,66 @@
 
 
      
-<p dir="auto">This project is a clone of naturesbasket.co.in, Nature’s Basket is a large online supermarket and grocery store for all your everyday food needs. Nature's Basket offer you the best quality grocery products which you can buy online and have them delivered to you conveniently.</p>
-<h2 dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tech Stack :</h2>
-<p dir="auto">The tech Stack we used for creating this website are :-</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/237fc767e09cfe6129076f3e89080a6b5ac5d2ac0ec717880e57435be932ba15/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363236392e706e67"><img src="https://camo.githubusercontent.com/237fc767e09cfe6129076f3e89080a6b5ac5d2ac0ec717880e57435be932ba15/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363236392e706e67" width="20/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/226/226269.png" style="max-width: 100%;"></a> HTML</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/809a763f1c8f3497709ff0a974bfe7dd11be4dd7a29085645f8e98fbaa4a26e4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323139302e706e67"><img src="https://camo.githubusercontent.com/809a763f1c8f3497709ff0a974bfe7dd11be4dd7a29085645f8e98fbaa4a26e4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323139302e706e67" width="20" data-canonical-src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="max-width: 100%;"></a> CSS</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/77b9ef5fd4b0a13ff3a0b2eccccefb810efe53205f1a2d9b0b8a03604816b825/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f313139392f313139393132342e706e67"><img src="https://camo.githubusercontent.com/77b9ef5fd4b0a13ff3a0b2eccccefb810efe53205f1a2d9b0b8a03604816b825/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f313139392f313139393132342e706e67" width="20/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" style="max-width: 100%;"></a> JavaScript</p>
-<h2 dir="auto"><a id="user-content-landing-page-" class="anchor" aria-hidden="true" href="#landing-page-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Landing Page :</h2>
-<p dir="auto">The landing page of naturesbasket.co.in displays the navigation bar which contains menu bar, Login and Create Account , Cart.
+<p >HealthKart.com is India’s largest online health & fitness store for men and women. Shop online from the latest collections of health, fitness and similar products featuring the best brands.</p>
+<h2 >Tech Stack :</h2>
+
+<p >The tech Stack we used for creating this website are :-</p>
+
+<p ><img src="https://camo.githubusercontent.com/237fc767e09cfe6129076f3e89080a6b5ac5d2ac0ec717880e57435be932ba15/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363236392e706e67" width="20/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/226/226269.png" style="max-width: 100%;"> HTML</p>
+
+<p ><img src="https://camo.githubusercontent.com/809a763f1c8f3497709ff0a974bfe7dd11be4dd7a29085645f8e98fbaa4a26e4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323139302e706e67" width="20" data-canonical-src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="max-width: 100%;"> CSS</p>
+
+<p ><img src="https://camo.githubusercontent.com/77b9ef5fd4b0a13ff3a0b2eccccefb810efe53205f1a2d9b0b8a03604816b825/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f313139392f313139393132342e706e67" width="20/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" style="max-width: 100%;"> JavaScript</p>
+
+<h2 >Landing Page :</h2>
+
+<p >The landing page of HealthKart.com displays the navigation bar which contains menu bar, Login and Create Account , Cart and Various Sections and Discounted products
 In our website, we tried our best to clone same as original website.</p>
-<h2 dir="auto"><a id="user-content-menu-section-" class="anchor" aria-hidden="true" href="#menu-section-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Menu Section :</h2>
-<p dir="auto">We have added Menu section on the top-left corner and below the navbar, if you click on the menu it will show the categories and subcategories of that section.</p>
-<h2 dir="auto"><a id="user-content-product-page-" class="anchor" aria-hidden="true" href="#product-page-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Product Page :</h2>
-<p dir="auto">We have so much categories user can find their products according to their need. We have added products from original website and categorized them into different section.</p>
-<h2 dir="auto"><a id="user-content-favourite-section-" class="anchor" aria-hidden="true" href="#favourite-section-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Favourite Section :</h2>
-<p dir="auto">In this Section, users can add their favourite things or products.</p>
-<h2 dir="auto"><a id="user-content-cart-section-" class="anchor" aria-hidden="true" href="#cart-section-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Cart Section :</h2>
-<p dir="auto">When we add some products using Add to Cart button, the products you have chosen, will showcase into the Cart Section.</p>
-<h2 dir="auto"><a id="user-content-login-and-create-account-" class="anchor" aria-hidden="true" href="#login-and-create-account-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Login and Create Account :</h2>
-<p dir="auto">User can Create Account and also Login to the account. We used some JavaScript for Sign-up and Login Functionalities.</p>
-<h2 dir="auto"><a id="user-content-payment-page-" class="anchor" aria-hidden="true" href="#payment-page-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Payment Page :</h2>
-<p dir="auto">We have added different payment methods, users can choose according to there preference, and after selecting any method it will redirect users to final payment page.</p>
-<h2 dir="auto"><a id="user-content-order-or-past-purchase-section-" class="anchor" aria-hidden="true" href="#order-or-past-purchase-section-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Order or Past-Purchase Section :</h2>
-<p dir="auto">The user can look up their order history and see all of the details.</p>
-<h2 dir="auto"><a id="user-content-contributors-" class="anchor" aria-hidden="true" href="#contributors-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contributors :</h2>
-<ul dir="auto">
-<li>
-<p dir="auto">Omkar Pasalkar : <a href="https://github.com/Omkar-WD">https://github.com/Omkar-WD</a></p>
-</li>
-<li>
-<p dir="auto">Prakash Vanture : <a href="https://github.com/webdev1903">https://github.com/webdev1903</a></p>
-</li>
-<li>
-<p dir="auto">Birendra Gupta : <a href="https://github.com/birendra20">https://github.com/birendra20</a></p>
-</li>
-<li>
-<p dir="auto">Vishal Vivare :</p>
-</li>
-<li>
-<p dir="auto">Ramesh Gudivada :</p>
-</li>
-<li>
-<p dir="auto">Kiran :</p>
-</li>
+
+<h2 >Menu Section :</h2>
+<p >We have added Menu section on the top-left corner and below the navbar, if you click on the menu it will show the categories and subcategories of that section.</p>
+
+<h2 >Product Page :</h2>
+<p >We have added products from original website and categorized them into different section. User also can sort the products.</p>
+
+<h2 >Cart Section :</h2>
+<p >When we add some products using Add to Cart button, the products you have chosen, will showcase into the Cart Section. User can remove the product from the cart.</p>
+
+<h2 >Login and Create Account :</h2>
+<p >User can Create Account and also Login to the account. We used some JavaScript for Sign-up and Login Functionalities.</p>
+
+<h2 >Payment Page :</h2>
+<p >We have added different payment methods, users can choose according to there preference, and after selecting any method it will redirect users to final payment page.</p>
+
+<h2 >Order or Past-Purchase Section :</h2>
+<p>The user can see an order successful message.</p>
+
+<h2>Contributors :</h2>
+<ul >
+     <li>
+          <p >Amaresh Barik : <a href="https://github.com/amareshcoding">https://github.com/amareshcoding</a></p>
+     </li>
+     <li>
+          <p >Prakash Vanture : <a href="https://github.com/webdev1903">https://github.com/webdev1903</a></p>
+     </li>
+     <li>
+          <p >Birendra Gupta : <a href="https://github.com/birendra20">https://github.com/birendra20</a></p>
+     </li>
+     <li>
+          <p >Vishal Vivare :</p>
+     </li>
+     <li>
+          <p>Ramesh Gudivada :</p>
+     </li>
+     <li>
+          <p>Kiran :</p>
+     </li>
 </ul>
-<h2 dir="auto"><a id="user-content-our-blog-link-" class="anchor" aria-hidden="true" href="#our-blog-link-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Our blog link :</h2>
-<p dir="auto"><a href="https://medium.com/@vantureprakash1903/first-construct-week-project-at-masai-team-natures-basket-7410ab0c2d4e" rel="nofollow">https://medium.com/@vantureprakash1903/first-construct-week-project-at-masai-team-natures-basket-7410ab0c2d4e</a></p>
-<h2 dir="auto"><a id="user-content-deploy-link-" class="anchor" aria-hidden="true" href="#deploy-link-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Deploy Link :</h2>
-<p dir="auto"><a href="https://naturesbasketclone.netlify.app/" rel="nofollow">https://naturesbasketclone.netlify.app/</a></p>
+<h2 >Our blog link :</h2>
+<p ><a href="https://medium.com/@vantureprakash1903/first-construct-week-project-at-masai-team-natures-basket-7410ab0c2d4e" rel="nofollow">https://medium.com/@vantureprakash1903/first-construct-week-project-at-masai-team-natures-basket-7410ab0c2d4e</a></p>
+
+<h2 >Deploy Link :</h2>
+<p ><a href="https://naturesbasketclone.netlify.app/" rel="nofollow">https://naturesbasketclone.netlify.app/</a></p>
 </article>
-        </div>
-    </div>
+</div>
+</div>
