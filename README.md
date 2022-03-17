@@ -42,16 +42,10 @@ In our website, we tried our best to clone same as original website.</p>
           <p >Amaresh Barik : <a href="https://github.com/amareshcoding">https://github.com/amareshcoding</a></p>
      </li>
      <li>
-          <p >Prakash Vanture : <a href="https://github.com/webdev1903">https://github.com/webdev1903</a></p>
+          <p >Arpit <a href="https://github.com/fabpot11">https://github.com/fabpot11</a></p>
      </li>
      <li>
           <p >Birendra Gupta : <a href="https://github.com/birendra20">https://github.com/birendra20</a></p>
-     </li>
-     <li>
-          <p >Vishal Vivare :</p>
-     </li>
-     <li>
-          <p>Ramesh Gudivada :</p>
      </li>
 </ul>
 <h2 >Our blog link :</h2>
