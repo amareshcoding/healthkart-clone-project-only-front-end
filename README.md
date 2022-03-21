@@ -1,9 +1,19 @@
 # healthkart-clone-project-1.0
-
-
      
 <p >HealthKart.com is India’s largest online health & fitness store for men and women. Shop online from the latest collections of health, fitness and similar products featuring the best brands.</p>
-<h2 >Tech Stack :</h2>
+
+## Local Use
+
+To clone this project.
+
+```bash
+  git clone https://github.com/amareshcoding/healthkart-clone-project-only-front-end.git
+```
+
+
+
+
+## Tech Stack :
 
 <p >The tech Stack we used for creating this website are :-</p>
 
@@ -13,30 +23,31 @@
 
 <p ><img src="https://camo.githubusercontent.com/77b9ef5fd4b0a13ff3a0b2eccccefb810efe53205f1a2d9b0b8a03604816b825/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f313139392f313139393132342e706e67" width="20/" data-canonical-src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" style="max-width: 100%;"> JavaScript</p>
 
-<h2 >Landing Page :</h2>
+## Landing Page :
 
 <p >The landing page of HealthKart.com displays the navigation bar which contains menu bar, Login and Create Account , Cart and Various Sections and Discounted products
 In our website, we tried our best to clone same as original website.</p>
+<img src="https://miro.medium.com/max/700/1*5FqtVlCTghHqJeCiDJVIKQ.png"></img>
 
-<h2 >Menu Section :</h2>
-<p >We have added Menu section on the top-left corner and below the navbar, if you click on the menu it will show the categories and subcategories of that section.</p>
-
-<h2 >Product Page :</h2>
+## Product Page :
 <p >We have added products from original website and categorized them into different section. User also can sort the products.</p>
+<img src="https://miro.medium.com/max/700/1*JsihLot8xusW_8pRCsLtNg.png"></img>
 
-<h2 >Cart Section :</h2>
+## Cart Section :
 <p >When we add some products using Add to Cart button, the products you have chosen, will showcase into the Cart Section. User can remove the product from the cart.</p>
+<img src="https://miro.medium.com/max/700/1*4IzQDHvNpPbrp0CdQla9UA.png"></img>
 
-<h2 >Login and Create Account :</h2>
+## Login and Create Account :
 <p >User can Create Account and also Login to the account. We used some JavaScript for Sign-up and Login Functionalities.</p>
+<img src="https://miro.medium.com/max/700/1*Jxm0Ca6Cb8-SJ-YEZicB4g.png"></img>
 
-<h2 >Payment Page :</h2>
+## Payment Page :
 <p >We have added different payment methods, users can choose according to there preference, and after selecting any method it will redirect users to final payment page.</p>
 
-<h2 >Order or Past-Purchase Section :</h2>
+## Order or Past-Purchase Section :
 <p>The user can see an order successful message.</p>
 
-<h2>Contributors :</h2>
+## Contributors :
 <ul >
      <li>
           <p >Amaresh Barik : <a href="https://github.com/amareshcoding">https://github.com/amareshcoding</a></p>
@@ -45,15 +56,20 @@ In our website, we tried our best to clone same as original website.</p>
           <p >Arpit <a href="https://github.com/fabpot11">https://github.com/fabpot11</a></p>
      </li>
      <li>
-          <p >Birendra Gupta : <a href="https://github.com/birendra20">https://github.com/birendra20</a></p>
+          <p >@Ankit Sharma</p>
+     </li>
+     <li>
+          <p >@Pushpendra</p>
      </li>
 </ul>
-<h2 >Our blog link :</h2>
+
+## Our blog link :
 <p >
      <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1" rel="nofollow">https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1</a>
 </p>
 
-<h2 >Deploy Link :</h2>
+## Deploy Link :
+
 <p ><a rel="noreferrer" target="_blank" href="https://healthkart-clone-project-only-front-end.netlify.app/" rel="nofollow">https://healthkart-clone-project-only-front-end.netlify.app/</a></p>
 </article>
 </div>
